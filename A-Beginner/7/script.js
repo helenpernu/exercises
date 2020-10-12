@@ -1,0 +1,1 @@
+const dog = [papillion, 4, black]
