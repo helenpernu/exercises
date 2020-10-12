@@ -1,0 +1,1 @@
+const Helen = {firstName:"Helen", lastName:"Pernu", age:"17"}
