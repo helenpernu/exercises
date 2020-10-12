@@ -1,1 +1,1 @@
-const dog = [papillion, 4, black]
+const dog = ["papillion", "4", "black"]
